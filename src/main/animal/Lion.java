@@ -1,4 +1,6 @@
-package main;
+package main.animal;
+
+import main.Animal;
 
 public class Lion extends Animal {
     public void roar() {

@@ -1,4 +1,8 @@
-package main;
+import main.*;
+import main.animal.Dolphin;
+import main.animal.Eagle;
+import main.animal.Elephant;
+import main.animal.Lion;
 
 public class AnimalPark {
     public static void main(String[] args) {

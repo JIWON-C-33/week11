@@ -1,4 +1,6 @@
-package main;
+package main.animal;
+
+import main.Animal;
 
 public class Dolphin extends Animal {
     public void swim() {
